@@ -1,7 +1,7 @@
 [
     {
         "Author": "kalilistic",
-        "Name": "PlayerTrack",
+        "Name": "PlayerTrack [Canary]",
         "Description": "Keep track of players you meet.",
         "InternalName": "PlayerTrack",
         "AssemblyVersion": "0.2.22",
@@ -19,11 +19,11 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1612149864"
+        "LastUpdated": "1612150117"
     },
     {
         "Author": "kalilistic",
-        "Name": "PriceCheck",
+        "Name": "PriceCheck [Canary]",
         "Description": "Quickly price check your items.",
         "InternalName": "PriceCheck",
         "AssemblyVersion": "1.0.62",
@@ -41,6 +41,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1612149864"
+        "LastUpdated": "1612150117"
     }
 ]
