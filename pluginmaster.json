@@ -19,6 +19,28 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1612030251"
+        "LastUpdated": "1612147174"
+    },
+    {
+        "Author": "kalilistic",
+        "Name": "PriceCheck",
+        "Description": "Quickly price check your items.",
+        "InternalName": "PriceCheck",
+        "AssemblyVersion": "1.0.62",
+        "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "price",
+            "marketboard",
+            "items"
+        ],
+        "DalamudApiLevel": "2",
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1612147174"
     }
 ]
