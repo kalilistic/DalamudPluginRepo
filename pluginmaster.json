@@ -1,6 +1,49 @@
 [
     {
         "Author": "kalilistic",
+        "Name": "Kapture [Canary]",
+        "Description": "Track your loot.",
+        "InternalName": "Kapture",
+        "AssemblyVersion": "1.0.20",
+        "RepoUrl": "https://github.com/kalilistic/Kapture",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "loot",
+            "track"
+        ],
+        "DalamudApiLevel": "2",
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1614656745"
+    },
+    {
+        "Author": "kalilistic",
+        "Name": "PlayerTrack [Canary]",
+        "Description": "Keep track of players you meet.",
+        "InternalName": "PlayerTrack",
+        "AssemblyVersion": "1.1.55",
+        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "players",
+            "track",
+            "orwell"
+        ],
+        "DalamudApiLevel": "2",
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1614656745"
+    },
+    {
+        "Author": "kalilistic",
         "Name": "PriceCheck [Canary]",
         "Description": "Quickly price check your items.",
         "InternalName": "PriceCheck",
@@ -19,49 +62,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1614559260"
-    },
-    {
-        "Author": "kalilistic",
-        "Name": "PlayerTrack [Canary]",
-        "Description": "Keep track of players you meet.",
-        "InternalName": "PlayerTrack",
-        "AssemblyVersion": "1.1.52",
-        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "players",
-            "track",
-            "orwell"
-        ],
-        "DalamudApiLevel": "2",
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1614559260"
-    },
-    {
-        "Author": "kalilistic",
-        "Name": "Kapture [Canary]",
-        "Description": "Track your loot.",
-        "InternalName": "Kapture",
-        "AssemblyVersion": "1.0.20",
-        "RepoUrl": "https://github.com/kalilistic/Kapture",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "loot",
-            "track"
-        ],
-        "DalamudApiLevel": "2",
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1614559260"
+        "LastUpdated": "1614656745"
     }
 ]
