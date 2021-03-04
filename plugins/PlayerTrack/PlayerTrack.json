@@ -1,8 +1,8 @@
 {
     "Author": "kalilistic",
-    "Name": "PlayerTrack",
+    "Name": "PlayerTrack [Canary]",
     "Description": "Keep track of players you meet.",
-    "InternalName": "PlayerTrack [Canary]",
+    "InternalName": "PlayerTrack",
     "AssemblyVersion": "1.1.57",
     "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
     "Tags": ["players", "track", "orwell"],
