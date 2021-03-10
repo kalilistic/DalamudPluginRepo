@@ -18,29 +18,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1614818388"
-    },
-    {
-        "Author": "kalilistic",
-        "Name": "PlayerTrack [Canary]",
-        "Description": "Keep track of players you meet.",
-        "InternalName": "PlayerTrack",
-        "AssemblyVersion": "1.1.57",
-        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "players",
-            "track",
-            "orwell"
-        ],
-        "DalamudApiLevel": "2",
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1614818388"
+        "LastUpdated": "1615347809"
     },
     {
         "Author": "kalilistic",
@@ -62,6 +40,28 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1614818388"
+        "LastUpdated": "1615347809"
+    },
+    {
+        "Author": "kalilistic",
+        "Name": "PlayerTrack [Canary]",
+        "Description": "Keep track of players you meet.",
+        "InternalName": "PlayerTrack",
+        "AssemblyVersion": "1.1.58",
+        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "players",
+            "track",
+            "orwell"
+        ],
+        "DalamudApiLevel": "2",
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1615347809"
     }
 ]
