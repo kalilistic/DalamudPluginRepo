@@ -1,9 +1,9 @@
 {
     "Author": "kalilistic",
-    "Name": "PriceCheck",
+    "Name": "PriceCheck [Canary]",
     "Description": "Quickly price check your items.",
     "InternalName": "PriceCheck",
-    "AssemblyVersion": "1.0.66 [Canary]",
+    "AssemblyVersion": "1.0.66",
     "RepoUrl": "https://github.com/kalilistic/PriceCheck",
     "Tags": ["price", "marketboard", "items"],
     "ApplicableVersion": "any",
