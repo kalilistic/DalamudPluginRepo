@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615948506"
+        "LastUpdated": "1616121576"
     },
     {
         "Author": "kalilistic",
@@ -40,14 +40,14 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615948506"
+        "LastUpdated": "1616121576"
     },
     {
         "Author": "kalilistic",
         "Name": "PlayerTrack [Canary]",
         "Description": "Keep track of players you meet.",
         "InternalName": "PlayerTrack",
-        "AssemblyVersion": "1.1.58",
+        "AssemblyVersion": "1.1.62",
         "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
         "ApplicableVersion": "any",
         "Tags": [
@@ -62,6 +62,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615948506"
+        "LastUpdated": "1616121576"
     }
 ]
