@@ -4,8 +4,8 @@
         "Name": "Kapture [Canary]",
         "Description": "Track your loot.",
         "InternalName": "Kapture",
-        "AssemblyVersion": "1.0.20",
-        "RepoUrl": "https://github.com/kalilistic/Kapture",
+        "AssemblyVersion": "1.0.31",
+        "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "ApplicableVersion": "any",
         "Tags": [
             "loot",
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615933175"
+        "LastUpdated": "1615948506"
     },
     {
         "Author": "kalilistic",
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615933175"
+        "LastUpdated": "1615948506"
     },
     {
         "Author": "kalilistic",
@@ -62,6 +62,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615933175"
+        "LastUpdated": "1615948506"
     }
 ]
