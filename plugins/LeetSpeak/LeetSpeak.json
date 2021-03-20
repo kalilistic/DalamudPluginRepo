@@ -1,0 +1,11 @@
+{
+    "Author": "kalilistic",
+    "Name": "LeetSpeak",
+    "Description": "Translate your chat to 1337.",
+    "InternalName": "LeetSpeak",
+    "AssemblyVersion": "1.0.21",
+    "RepoUrl": "https://github.com/kalilistic/LeetSpeak",
+    "Tags": ["leet", "1337", "translate"],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "2"
+}
