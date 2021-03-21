@@ -19,14 +19,14 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/LeetSpeak/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/LeetSpeak/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616204514"
+        "LastUpdated": "1616298450"
     },
     {
         "Author": "kalilistic",
         "Name": "Kapture [Canary]",
         "Description": "Track your loot.",
         "InternalName": "Kapture",
-        "AssemblyVersion": "1.0.31",
+        "AssemblyVersion": "1.0.36",
         "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "ApplicableVersion": "any",
         "Tags": [
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616204514"
+        "LastUpdated": "1616298450"
     },
     {
         "Author": "kalilistic",
@@ -62,14 +62,14 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616204514"
+        "LastUpdated": "1616298450"
     },
     {
         "Author": "kalilistic",
         "Name": "PlayerTrack [Canary]",
         "Description": "Keep track of players you meet.",
         "InternalName": "PlayerTrack",
-        "AssemblyVersion": "1.1.62",
+        "AssemblyVersion": "1.1.64",
         "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
         "ApplicableVersion": "any",
         "Tags": [
@@ -84,6 +84,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616204514"
+        "LastUpdated": "1616298450"
     }
 ]
