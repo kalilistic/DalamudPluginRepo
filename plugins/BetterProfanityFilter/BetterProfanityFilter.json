@@ -1,0 +1,11 @@
+{
+    "Author": "kalilistic",
+    "Name": "BetterProfanityFilter [Canary]",
+    "Description": "Filter profanity from chat.",
+    "InternalName": "BetterProfanityFilter",
+    "AssemblyVersion": "1.0.22",
+    "RepoUrl": "https://github.com/kalilistic/BetterProfanityFilter",
+    "Tags": ["profanity", "filter"],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "2"
+}
