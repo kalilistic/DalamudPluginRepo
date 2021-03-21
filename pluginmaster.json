@@ -1,10 +1,10 @@
 [
     {
         "Author": "kalilistic",
-        "Name": "LeetSpeak",
+        "Name": "LeetSpeak [Canary]",
         "Description": "Translate your chat to 1337.",
         "InternalName": "LeetSpeak",
-        "AssemblyVersion": "1.0.21",
+        "AssemblyVersion": "1.0.22",
         "RepoUrl": "https://github.com/kalilistic/LeetSpeak",
         "ApplicableVersion": "any",
         "Tags": [
@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/LeetSpeak/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/LeetSpeak/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616328358"
+        "LastUpdated": "1616341515"
     },
     {
         "Author": "kalilistic",
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616328358"
+        "LastUpdated": "1616341515"
     },
     {
         "Author": "kalilistic",
@@ -62,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616328358"
+        "LastUpdated": "1616341515"
     },
     {
         "Author": "kalilistic",
@@ -84,6 +84,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616328358"
+        "LastUpdated": "1616341515"
     }
 ]
