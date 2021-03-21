@@ -1,9 +1,9 @@
 {
     "Author": "kalilistic",
-    "Name": "LeetSpeak",
+    "Name": "LeetSpeak [Canary]",
     "Description": "Translate your chat to 1337.",
     "InternalName": "LeetSpeak",
-    "AssemblyVersion": "1.0.21",
+    "AssemblyVersion": "1.0.22",
     "RepoUrl": "https://github.com/kalilistic/LeetSpeak",
     "Tags": ["leet", "1337", "translate"],
     "ApplicableVersion": "any",
