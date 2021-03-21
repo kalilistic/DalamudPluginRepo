@@ -3,7 +3,7 @@
     "Name": "Kapture [Canary]",
     "Description": "Track your loot.",
     "InternalName": "Kapture",
-    "AssemblyVersion": "1.0.36",
+    "AssemblyVersion": "1.0.38",
     "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
     "Tags": ["loot", "track"],
     "ApplicableVersion": "any",
