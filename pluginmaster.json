@@ -4,7 +4,7 @@
         "Name": "Kapture [Canary]",
         "Description": "Track your loot.",
         "InternalName": "Kapture",
-        "AssemblyVersion": "1.0.53",
+        "AssemblyVersion": "1.0.54",
         "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "ApplicableVersion": "any",
         "Tags": [
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616894667"
+        "LastUpdated": "1616896165"
     },
     {
         "Author": "kalilistic",
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616894667"
+        "LastUpdated": "1616896165"
     },
     {
         "Author": "kalilistic",
@@ -62,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616894667"
+        "LastUpdated": "1616896165"
     },
     {
         "Author": "kalilistic",
@@ -83,7 +83,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/BetterProfanityFilter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/BetterProfanityFilter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616894667"
+        "LastUpdated": "1616896165"
     },
     {
         "Author": "kalilistic",
@@ -105,6 +105,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/LeetSpeak/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/LeetSpeak/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616894667"
+        "LastUpdated": "1616896165"
     }
 ]
