@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616978525"
+        "LastUpdated": "1617141285"
     },
     {
         "Author": "kalilistic",
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616978525"
+        "LastUpdated": "1617141285"
     },
     {
         "Author": "kalilistic",
@@ -62,49 +62,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1616978525"
-    },
-    {
-        "Author": "kalilistic",
-        "Name": "Better Profanity Filter [Canary]",
-        "Description": "Filter profanity from chat.",
-        "InternalName": "BetterProfanityFilter",
-        "AssemblyVersion": "1.0.23",
-        "RepoUrl": "https://github.com/kalilistic/BetterProfanityFilter",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "profanity",
-            "filter"
-        ],
-        "DalamudApiLevel": "2",
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/BetterProfanityFilter/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/BetterProfanityFilter/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/BetterProfanityFilter/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1616978525"
-    },
-    {
-        "Author": "kalilistic",
-        "Name": "LeetSpeak [Canary]",
-        "Description": "Translate your chat to 1337.",
-        "InternalName": "LeetSpeak",
-        "AssemblyVersion": "1.0.22",
-        "RepoUrl": "https://github.com/kalilistic/LeetSpeak",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "leet",
-            "1337",
-            "translate"
-        ],
-        "DalamudApiLevel": "2",
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/LeetSpeak/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/LeetSpeak/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/LeetSpeak/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1616978525"
+        "LastUpdated": "1617141285"
     }
 ]
