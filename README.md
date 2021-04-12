@@ -1,3 +1,6 @@
+### Note: I don't currently have any plugins in testing. Please get the latest verions from the official repo.
+---------
+
 # Kal's Dalamud Plugin Repository
 My third party plugin repository used for testing new releases before I publish them to the official repository. These should be considered experimental and subject to bugs unless otherwise noted.
 
