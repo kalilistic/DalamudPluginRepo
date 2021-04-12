@@ -1,4 +1,4 @@
-### Note: I don't currently have any plugins in testing. Please get the latest verions from the official repo.
+### Note: I don't currently have any plugins in testing. Please get the latest versions from the official repo.
 ---------
 
 # Kal's Dalamud Plugin Repository
