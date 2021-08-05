@@ -1,8 +1,5 @@
-### Note: I don't currently have any plugins in testing. Please get the latest versions from the official repo.
----------
-
 # Kal's Dalamud Plugin Repository
-My third party plugin repository used for testing new releases before I publish them to the official repository. These should be considered experimental and subject to bugs unless otherwise noted.
+My third party plugin repository used for testing new releases before I publish them to the official repository. These should be considered experimental and subject to bugs.
 
 ## How to use
 1. Open the plugin installer by typing `/xlplugins` in the chat window and pressing enter.
