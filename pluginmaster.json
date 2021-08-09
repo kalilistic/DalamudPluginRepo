@@ -4,7 +4,7 @@
         "Name": "PlayerTrack",
         "Description": "Keep track of players you meet.",
         "InternalName": "PlayerTrack",
-        "AssemblyVersion": "2.0.11.0",
+        "AssemblyVersion": "2.0.13.0",
         "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -14,6 +14,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1628470729"
+        "LastUpdated": "1628472192"
     }
 ]
