@@ -1,6 +1,28 @@
 [
     {
         "Author": "kalilistic",
+        "Name": "PlayerTrack",
+        "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
+        "InternalName": "PlayerTrack",
+        "AssemblyVersion": "2.0.44.0",
+        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "player",
+            "track",
+            "orwell"
+        ],
+        "DalamudApiLevel": 4,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1630881533"
+    },
+    {
+        "Author": "kalilistic",
         "Name": "SillyChat",
         "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
         "InternalName": "SillyChat",
@@ -17,6 +39,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630880009"
+        "LastUpdated": "1630881533"
     }
 ]
