@@ -4,7 +4,7 @@
         "Name": "PlayerTrack",
         "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
         "InternalName": "PlayerTrack",
-        "AssemblyVersion": "2.0.45.0",
+        "AssemblyVersion": "2.0.46.0",
         "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
         "ApplicableVersion": "any",
         "Tags": [
@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630884426"
+        "LastUpdated": "1630963744"
     },
     {
         "Author": "kalilistic",
@@ -39,6 +39,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630884426"
+        "LastUpdated": "1630963744"
     }
 ]
