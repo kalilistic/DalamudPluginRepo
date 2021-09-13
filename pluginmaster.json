@@ -19,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631484755"
+        "LastUpdated": "1631495552"
     },
     {
         "Author": "kalilistic",
@@ -39,14 +39,14 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631484755"
+        "LastUpdated": "1631495552"
     },
     {
         "Author": "kalilistic",
         "Name": "Kapture",
         "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
         "InternalName": "Kapture",
-        "AssemblyVersion": "1.2.2.0",
+        "AssemblyVersion": "1.2.3.0",
         "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "ApplicableVersion": "any",
         "Tags": [
@@ -61,6 +61,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1631484755"
+        "LastUpdated": "1631495552"
     }
 ]
