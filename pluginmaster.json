@@ -4,7 +4,7 @@
         "Name": "SillyChat",
         "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
         "InternalName": "SillyChat",
-        "AssemblyVersion": "1.2.0.0",
+        "AssemblyVersion": "1.2.1.0",
         "RepoUrl": "https://github.com/kalilistic/SillyChat",
         "ApplicableVersion": "any",
         "Tags": [
@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632022526"
+        "LastUpdated": "1632023388"
     },
     {
         "Author": "kalilistic",
@@ -39,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632022526"
+        "LastUpdated": "1632023388"
     },
     {
         "Author": "kalilistic",
@@ -61,6 +61,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632022526"
+        "LastUpdated": "1632023388"
     }
 ]
