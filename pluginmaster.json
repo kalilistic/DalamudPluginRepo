@@ -1,6 +1,28 @@
 [
     {
         "Author": "kalilistic",
+        "Name": "PriceCheck",
+        "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
+        "InternalName": "PriceCheck",
+        "AssemblyVersion": "2.0.62.0",
+        "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "price",
+            "marketboard",
+            "universalis"
+        ],
+        "DalamudApiLevel": 4,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1632024166"
+    },
+    {
+        "Author": "kalilistic",
         "Name": "SillyChat",
         "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
         "InternalName": "SillyChat",
@@ -17,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632023388"
+        "LastUpdated": "1632024166"
     },
     {
         "Author": "kalilistic",
@@ -39,7 +61,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632023388"
+        "LastUpdated": "1632024166"
     },
     {
         "Author": "kalilistic",
@@ -61,6 +83,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1632023388"
+        "LastUpdated": "1632024166"
     }
 ]
