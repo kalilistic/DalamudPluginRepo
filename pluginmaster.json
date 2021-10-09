@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633797140"
+        "LastUpdated": "1633797242"
     },
     {
         "Author": "kalilistic",
@@ -39,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633797139"
+        "LastUpdated": "1633797242"
     },
     {
         "Author": "kalilistic",
@@ -61,14 +61,14 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633797139"
+        "LastUpdated": "1633797242"
     },
     {
         "Author": "kalilistic",
         "Name": "PriceCheck",
         "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
         "InternalName": "PriceCheck",
-        "AssemblyVersion": "2.0.64.0",
+        "AssemblyVersion": "2.0.65.0",
         "RepoUrl": "https://github.com/kalilistic/PriceCheck",
         "ApplicableVersion": "any",
         "Tags": [
@@ -83,7 +83,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633797139"
+        "LastUpdated": "1633797242"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -106,6 +106,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1633797139"
+        "LastUpdated": "1633797242"
     }
 ]
