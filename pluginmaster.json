@@ -1,25 +1,25 @@
 [
     {
         "Author": "kalilistic",
-        "Name": "PriceCheck",
-        "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
-        "InternalName": "PriceCheck",
-        "AssemblyVersion": "2.0.66.0",
-        "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+        "Name": "Kapture",
+        "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
+        "InternalName": "Kapture",
+        "AssemblyVersion": "1.2.22.0",
+        "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
         "ApplicableVersion": "any",
         "Tags": [
-            "price",
-            "marketboard",
-            "universalis"
+            "loot",
+            "track",
+            "roll"
         ],
         "DalamudApiLevel": 4,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1636162549"
+        "LastUpdated": "1637360914"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1636162549"
+        "LastUpdated": "1637360914"
     },
     {
         "Author": "kalilistic",
@@ -62,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1636162549"
+        "LastUpdated": "1637360914"
     },
     {
         "Author": "kalilistic",
@@ -84,28 +84,28 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1636162549"
+        "LastUpdated": "1637360914"
     },
     {
         "Author": "kalilistic",
-        "Name": "Kapture",
-        "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
-        "InternalName": "Kapture",
-        "AssemblyVersion": "1.2.22.0",
-        "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
+        "Name": "PriceCheck",
+        "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
+        "InternalName": "PriceCheck",
+        "AssemblyVersion": "2.0.66.0",
+        "RepoUrl": "https://github.com/kalilistic/PriceCheck",
         "ApplicableVersion": "any",
         "Tags": [
-            "loot",
-            "track",
-            "roll"
+            "price",
+            "marketboard",
+            "universalis"
         ],
         "DalamudApiLevel": 4,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1636162549"
+        "LastUpdated": "1637360914"
     }
 ]
