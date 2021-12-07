@@ -11,8 +11,8 @@
     "track",
     "roll"
   ],
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api4/plugins/Kapture/images/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/plugins/Kapture/images/icon.png",
   "Punchline": "Track your loot."
 }
