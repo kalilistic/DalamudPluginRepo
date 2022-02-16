@@ -1,32 +1,10 @@
 [
     {
         "Author": "kalilistic",
-        "Name": "Kapture",
-        "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
-        "InternalName": "Kapture",
-        "AssemblyVersion": "1.3.4.0",
-        "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "loot",
-            "track",
-            "roll"
-        ],
-        "DalamudApiLevel": 5,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1643563565"
-    },
-    {
-        "Author": "kalilistic",
         "Name": "SillyChat",
         "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
         "InternalName": "SillyChat",
-        "AssemblyVersion": "1.3.2.0",
+        "AssemblyVersion": "1.3.3.0",
         "RepoUrl": "https://github.com/kalilistic/SillyChat",
         "ApplicableVersion": "any",
         "Tags": [
@@ -39,29 +17,29 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643563565"
+        "LastUpdated": "1645016980"
     },
     {
         "Author": "kalilistic",
-        "Name": "PlayerTrack",
-        "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
-        "InternalName": "PlayerTrack",
-        "AssemblyVersion": "2.4.4.0",
-        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+        "Name": "PriceCheck",
+        "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
+        "InternalName": "PriceCheck",
+        "AssemblyVersion": "2.1.0.0",
+        "RepoUrl": "https://github.com/kalilistic/PriceCheck",
         "ApplicableVersion": "any",
         "Tags": [
-            "player",
-            "track",
-            "orwell"
+            "price",
+            "marketboard",
+            "universalis"
         ],
         "DalamudApiLevel": 5,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643563565"
+        "LastUpdated": "1645016980"
     },
     {
         "Author": "kalilistic, karashiiro",
@@ -84,28 +62,50 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643563565"
+        "LastUpdated": "1645016980"
     },
     {
         "Author": "kalilistic",
-        "Name": "PriceCheck",
-        "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
-        "InternalName": "PriceCheck",
-        "AssemblyVersion": "2.1.0.0",
-        "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+        "Name": "PlayerTrack",
+        "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
+        "InternalName": "PlayerTrack",
+        "AssemblyVersion": "2.4.4.0",
+        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
         "ApplicableVersion": "any",
         "Tags": [
-            "price",
-            "marketboard",
-            "universalis"
+            "player",
+            "track",
+            "orwell"
         ],
         "DalamudApiLevel": 5,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643563565"
+        "LastUpdated": "1645016980"
+    },
+    {
+        "Author": "kalilistic",
+        "Name": "Kapture",
+        "Description": "Kapture is a loot tracker to capture drops, obtained items, rolls, and more.\nUse the roll monitor to see who you are waiting on to roll.",
+        "InternalName": "Kapture",
+        "AssemblyVersion": "1.3.4.0",
+        "RepoUrl": "https://github.com/kalilistic/Dalamud.Kapture",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "loot",
+            "track",
+            "roll"
+        ],
+        "DalamudApiLevel": 5,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1645016980"
     }
 ]
