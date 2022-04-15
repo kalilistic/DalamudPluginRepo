@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988429"
+        "LastUpdated": "1649988795"
     },
     {
         "Author": "kalilistic",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988429"
+        "LastUpdated": "1649988795"
     },
     {
         "Author": "kalilistic",
@@ -62,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988429"
+        "LastUpdated": "1649988795"
     },
     {
         "Author": "kalilistic",
@@ -79,14 +79,14 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988429"
+        "LastUpdated": "1649988795"
     },
     {
         "Author": "kalilistic",
         "Name": "PriceCheck",
         "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
         "InternalName": "PriceCheck",
-        "AssemblyVersion": "2.2.0.0",
+        "AssemblyVersion": "2.2.1.0",
         "RepoUrl": "https://github.com/kalilistic/PriceCheck",
         "ApplicableVersion": "any",
         "Tags": [
@@ -94,14 +94,14 @@
             "marketboard",
             "universalis"
         ],
-        "DalamudApiLevel": 5,
+        "DalamudApiLevel": 6,
         "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988429"
+        "LastUpdated": "1649988795"
     },
     {
         "Author": "kalilistic",
@@ -123,6 +123,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988429"
+        "LastUpdated": "1649988795"
     }
 ]
