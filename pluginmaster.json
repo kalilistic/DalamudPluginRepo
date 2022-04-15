@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650059801"
+        "LastUpdated": "1650060638"
     },
     {
         "Author": "kalilistic",
@@ -42,27 +42,29 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650059801"
+        "LastUpdated": "1650060638"
     },
     {
         "Author": "kalilistic",
         "Name": "SillyChat",
         "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
         "InternalName": "SillyChat",
-        "AssemblyVersion": "1.3.3.0",
+        "AssemblyVersion": "1.4.0.0",
         "RepoUrl": "https://github.com/kalilistic/SillyChat",
         "ApplicableVersion": "any",
         "Tags": [
-            "chat"
+            "chat",
+            "owo",
+            "urianger"
         ],
-        "DalamudApiLevel": 5,
+        "DalamudApiLevel": 6,
         "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650059801"
+        "LastUpdated": "1650060638"
     },
     {
         "Author": "kalilistic",
@@ -79,7 +81,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650059801"
+        "LastUpdated": "1650060638"
     },
     {
         "Author": "kalilistic",
@@ -101,7 +103,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650059801"
+        "LastUpdated": "1650060638"
     },
     {
         "Author": "kalilistic",
@@ -123,6 +125,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650059801"
+        "LastUpdated": "1650060638"
     }
 ]
