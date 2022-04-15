@@ -1,47 +1,5 @@
 [
     {
-        "Author": "kalilistic",
-        "Name": "SillyChat",
-        "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
-        "InternalName": "SillyChat",
-        "AssemblyVersion": "1.3.3.0",
-        "RepoUrl": "https://github.com/kalilistic/SillyChat",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "chat"
-        ],
-        "DalamudApiLevel": 5,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1648844593"
-    },
-    {
-        "Author": "kalilistic",
-        "Name": "PriceCheck",
-        "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
-        "InternalName": "PriceCheck",
-        "AssemblyVersion": "2.1.0.0",
-        "RepoUrl": "https://github.com/kalilistic/PriceCheck",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "price",
-            "marketboard",
-            "universalis"
-        ],
-        "DalamudApiLevel": 5,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1648844593"
-    },
-    {
         "Author": "kalilistic, karashiiro",
         "Name": "NeatNoter",
         "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
@@ -62,24 +20,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1648844593"
-    },
-    {
-        "Author": "kalilistic",
-        "Name": "Tippy",
-        "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings",
-        "InternalName": "Tippy",
-        "AssemblyVersion": "0.1.0.0",
-        "RepoUrl": "https://github.com/kalilistic/tippy",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1648844593"
+        "LastUpdated": "1649986856"
     },
     {
         "Author": "kalilistic",
@@ -101,7 +42,66 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1648844593"
+        "LastUpdated": "1649986856"
+    },
+    {
+        "Author": "kalilistic",
+        "Name": "SillyChat",
+        "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
+        "InternalName": "SillyChat",
+        "AssemblyVersion": "1.3.3.0",
+        "RepoUrl": "https://github.com/kalilistic/SillyChat",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "chat"
+        ],
+        "DalamudApiLevel": 5,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1649986856"
+    },
+    {
+        "Author": "kalilistic",
+        "Name": "Tippy",
+        "Description": "Developed by goat for April Fools 2021 and unnecessarily resurrected by kal.\n\nHandcrafted by our finest code artisans with special AI, \nhe will analyze your playstyle to give you useful tips to get your GAMING to the next level.\n\nSome things he can do:\n* He can give general tips about the game\n* He can give tips about the job you're playing\n* He can report on your battle performance\n* He will respect your feelings",
+        "InternalName": "Tippy",
+        "AssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/kalilistic/tippy",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1649986856"
+    },
+    {
+        "Author": "kalilistic",
+        "Name": "PriceCheck",
+        "Description": "To check prices, hold your keybind and then hover over an item or via the item's context menu.\nThe prices are pulled from the crowd-sourced site Universalis.",
+        "InternalName": "PriceCheck",
+        "AssemblyVersion": "2.2.0.0",
+        "RepoUrl": "https://github.com/kalilistic/PriceCheck",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "price",
+            "marketboard",
+            "universalis"
+        ],
+        "DalamudApiLevel": 5,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1649986856"
     },
     {
         "Author": "kalilistic",
@@ -123,6 +123,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1648844593"
+        "LastUpdated": "1649986856"
     }
 ]
