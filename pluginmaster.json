@@ -4,7 +4,7 @@
         "Name": "NeatNoter",
         "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
         "InternalName": "NeatNoter",
-        "AssemblyVersion": "2.1.6.0",
+        "AssemblyVersion": "2.2.0.0",
         "RepoUrl": "https://github.com/kalilistic/NeatNoter",
         "ApplicableVersion": "any",
         "Tags": [
@@ -13,14 +13,14 @@
             "tool",
             "overlay"
         ],
-        "DalamudApiLevel": 5,
+        "DalamudApiLevel": 6,
         "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988795"
+        "LastUpdated": "1649990354"
     },
     {
         "Author": "kalilistic",
@@ -42,7 +42,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988795"
+        "LastUpdated": "1649990354"
     },
     {
         "Author": "kalilistic",
@@ -62,7 +62,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988795"
+        "LastUpdated": "1649990354"
     },
     {
         "Author": "kalilistic",
@@ -79,7 +79,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988795"
+        "LastUpdated": "1649990354"
     },
     {
         "Author": "kalilistic",
@@ -101,7 +101,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988795"
+        "LastUpdated": "1649990354"
     },
     {
         "Author": "kalilistic",
@@ -123,6 +123,6 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1649988795"
+        "LastUpdated": "1649990354"
     }
 ]
