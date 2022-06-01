@@ -1,50 +1,5 @@
 [
     {
-        "Author": "kalilistic, karashiiro",
-        "Name": "NeatNoter",
-        "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
-        "InternalName": "NeatNoter",
-        "AssemblyVersion": "2.2.1.0",
-        "RepoUrl": "https://github.com/kalilistic/NeatNoter",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "note",
-            "utility",
-            "tool",
-            "overlay"
-        ],
-        "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1650506026"
-    },
-    {
-        "Author": "kalilistic",
-        "Name": "PlayerTrack",
-        "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
-        "InternalName": "PlayerTrack",
-        "AssemblyVersion": "2.5.0.0",
-        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "player",
-            "track",
-            "orwell"
-        ],
-        "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1650506026"
-    },
-    {
         "Author": "kalilistic",
         "Name": "SillyChat",
         "Description": "Allows you to translate player and NPC chat messages/bubbles.\nSupported languages include: Pirate, Urianger, Leet, Pig Latin, and Turkey.",
@@ -64,7 +19,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/SillyChat/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650506026"
+        "LastUpdated": "1654042174"
     },
     {
         "Author": "kalilistic",
@@ -81,7 +36,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Tippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650506026"
+        "LastUpdated": "1654042174"
     },
     {
         "Author": "kalilistic",
@@ -103,7 +58,7 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PriceCheck/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650506026"
+        "LastUpdated": "1654042174"
     },
     {
         "Author": "kalilistic",
@@ -125,6 +80,51 @@
         "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/Kapture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1650506026"
+        "LastUpdated": "1654042174"
+    },
+    {
+        "Author": "kalilistic, karashiiro",
+        "Name": "NeatNoter",
+        "Description": "NeatNoter allows you to take notes without switching windows or any of that.",
+        "InternalName": "NeatNoter",
+        "AssemblyVersion": "2.2.1.0",
+        "RepoUrl": "https://github.com/kalilistic/NeatNoter",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "note",
+            "utility",
+            "tool",
+            "overlay"
+        ],
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/NeatNoter/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1654042174"
+    },
+    {
+        "Author": "kalilistic",
+        "Name": "PlayerTrack",
+        "Description": "PlayerTrack helps you keep a record of who you meet and the content you played together.\nOrganize players into categories, keep notes, and track them across name/world changes.\nCustomization options include colors, icons, nameplates, and alerts.",
+        "InternalName": "PlayerTrack",
+        "AssemblyVersion": "2.5.1.0",
+        "RepoUrl": "https://github.com/kalilistic/PlayerTrack",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "player",
+            "track",
+            "orwell"
+        ],
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/kalilistic/DalamudPluginRepo/raw/master/plugins/PlayerTrack/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1654042174"
     }
 ]
